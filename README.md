@@ -10,5 +10,7 @@ and then you will be asked to put your total marks in 9th grade and in some subj
 
 ## Contact
 [GitHub](https://github.com/mosaabg)
+
 [LinkedIn](https://www.linkedin.com/in/mosaabgamal)
+
 [Gmail](mosaabgamal0@gmail.com)
